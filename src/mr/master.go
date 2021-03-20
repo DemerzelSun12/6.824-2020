@@ -1,5 +1,6 @@
 package mr
 
+import "fmt"
 import "log"
 import "net"
 import "os"
